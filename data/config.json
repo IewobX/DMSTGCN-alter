@@ -1,18 +1,18 @@
 {
   "PEMSD4": {
-    "data_dir": "/kaggle/input/dmstgcnalter/DMSTGCN-alter/PEMSD4",
+    "data_dir": "/kaggle/input/DMSTGCN-alter/PEMSD4",
     "num_nodes": 307,
     "num_slots": 288,
     "normalization": "batch"
   },
   "PEMSD8": {
-    "data_dir": "/kaggle/input/dmstgcnalter/DMSTGCN-alter/PEMSD8",
+    "data_dir": "/kaggle/input/DMSTGCN-alter/PEMSD8",
     "num_nodes": 170,
     "num_slots": 288,
     "normalization": "batch"
   },
   "England": {
-    "data_dir": "/kaggle/input/dmstgcnalter/DMSTGCN-alter/England",
+    "data_dir": "/kaggle/input/DMSTGCN-alter/England",
     "num_nodes": 314,
     "num_slots": 96,
     "normalization": "layer"
